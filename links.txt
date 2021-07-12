@@ -1,0 +1,4 @@
+Linear algebra
+
+https://www.udacity.com/course/linear-algebra-refresher-course--ud953
+https://www.khanacademy.org/math/linear-algebra
