@@ -2,3 +2,8 @@ Linear algebra
 
 https://www.udacity.com/course/linear-algebra-refresher-course--ud953
 https://www.khanacademy.org/math/linear-algebra
+
+text vectorization
+https://en.wikipedia.org/wiki/Tf–idf <- 1
+https://en.wikipedia.org/wiki/Word2vec
+https://nlp.stanford.edu/pubs/glove.pdf
